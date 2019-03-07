@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/isabella/Desktop/Data_Structure/Code/Binary_Tree/main.cpp
+iostream
+-
+not_recursive.h
+/Users/isabella/Desktop/Data_Structure/Code/Binary_Tree/not_recursive.h
+
+/Users/isabella/Desktop/Data_Structure/Code/Binary_Tree/not_recursive.h
+iostream
+-
+stack
+-
+queue
+-
+
